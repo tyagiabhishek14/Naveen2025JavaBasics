@@ -108,6 +108,9 @@ public class DataTypeConcept {
 
 		System.out.println((short) 100);
 		System.out.println(false);
+		
+		char c = 'A';
+		System.out.println(c);
 
 	}
 
